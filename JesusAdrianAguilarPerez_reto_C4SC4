@@ -1,6 +1,0 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-# Leer el archivo Employee _data.csv
-employeedt= pd.read_csv('/content/Employee_data.csv')
